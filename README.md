@@ -14,3 +14,6 @@
   </div><br/>
   
   Jovem aprendiz que sempre gostou de tecnologia, atualmente apaixonado na programação ❤️
+  
+  ![Snake animation](https://github.com/CarlosSchefferr/CarlosSchefferr/blob/output/github-contribution-grid-snake.svg)
+ 
