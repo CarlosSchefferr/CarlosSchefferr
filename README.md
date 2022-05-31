@@ -1,4 +1,8 @@
+<div align="center">
+
 ## Olá! Eu sou o Carlos Augusto 🖐️
+
+
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/carloschefferr)
 
@@ -15,5 +19,9 @@
   
   Jovem aprendiz que sempre gostou de tecnologia, atualmente apaixonado na programação ❤️
   
+  
+  
   ![Snake animation](https://github.com/CarlosSchefferr/CarlosSchefferr/blob/output/github-contribution-grid-snake.svg)
+  
+  </div>
  
