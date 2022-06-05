@@ -1,27 +1,46 @@
-<div align="center">
+<div align="center"><br>
 
 ## Olá! Eu sou o Carlos Augusto 🖐️
 
 
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/carloschefferr)
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/carlos-augusto-scheffer-magnus-2b9859239/)
 
-![Carlos GitHub stats](https://github-readme-stats.vercel.app/api?username=CarlosSchefferr&show_icons=true&theme=dracula&count_private=true)
-
-
-## Tecnologias que eu uso no meu dia
-
-<div style="display: inline_block">
-  
-  <img align="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img align="center" alt="css" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img align="center" alt="js" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+<div align"center"><br>
   
   
+  ## GitHub Analytics
+
+
+<img width="530em" src="https://github-readme-stats.vercel.app/api?username=CarlosSchefferr&show_icons=true&theme=dracula" alt="CarlosSchefferr stats"/>
+<img width="530em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CarlosSchefferr&layout=compact&theme=dracula" alt="CarlosSchefferr most languages"/>
+
   
-  </div><br/>
+  </div><br>
+
+
+## Tecnologias que eu uso no meu dia a dia...
+
+<div align="center" valign="top"><br>
+
+  <img align="center" alt="htm" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" />
+  <img align="center" alt="css" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" />
+  <img align="center" alt="js"  height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" />
+  <img align="center" alt="ts"  height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg" />
+  <img align="center" alt="wd"  height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" />
+  <img align="center" alt="vs"  height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
+          
+         
+  
+</div><br>
+ 
+ ##
+ <div><br>
+
   
   Jovem aprendiz que sempre gostou de tecnologia, atualmente apaixonado na programação ❤️
+  </div><br>
   
   
   
