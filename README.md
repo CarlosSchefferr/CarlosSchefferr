@@ -39,7 +39,7 @@
  <div><br>
 
   
-  Jovem aprendiz que sempre gostou de tecnologia, atualmente apaixonado na programação ❤️
+  Sempre gostei de tecnologia, atualmente apaixonado na programação ❤️
   </div><br>
   
   
