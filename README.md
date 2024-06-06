@@ -48,7 +48,7 @@
 
 
 <div align="center">
- <img loading="lazy" width="100%" alt="gif colorido" src="https://capsule-render.vercel.app/api?type=waving&color=09C3D7&height=160§ion=footer">
-</div>
+    <img loading="lazy" width="100%" alt="colored gif" src="https://capsule-render.vercel.app/api?type=waving&color=09C3D7&height=160&section=footer">
+  </div>
   </div>
  
