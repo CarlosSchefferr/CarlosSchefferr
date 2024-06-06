@@ -44,8 +44,7 @@
   
   
   #area de troféu 
- ![trophy](https://github-profile-trophy.vercel.app/?username=CarlosSchefferr&theme=matrix-frame=true&no-bg=true&margin-w=4&rank=-?&margin-w=15)
-
+ ![trophy](https://github-profile-trophy.vercel.app/?username=CarlosSchefferr&theme=tokyonight)
 
 <div align="center">
     <img loading="lazy" width="100%" alt="colored gif" src="https://capsule-render.vercel.app/api?type=waving&color=7e22ce&height=160&section=footer">
