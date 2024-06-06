@@ -44,7 +44,7 @@
   
   
   #area de troféu 
- ![trophy](https://github-profile-trophy.vercel.app/?username=CarlosSchefferr&theme=algolia&no-frame=true&no-bg=true&margin-w=4&rank=-?&margin-w=15)
+ ![trophy](https://github-profile-trophy.vercel.app/?username=CarlosSchefferr&theme=tokyonight-frame=true&no-bg=true&margin-w=4&rank=-?&margin-w=15)
 
 
 <div align="center">
