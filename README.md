@@ -36,7 +36,7 @@
 
   <!-- github readme activity graph start -->
   <div align="center">
-    <img loading="lazy" alt="visitor badge" src="https://github-readme-activity-graph-mnex.vercel.app/graph?username=guzzatti&bg_color=0d1117&color=7e22ce&line=7e22ce&point=FFFFFF&area=false&hide_border=true&hide_title=true">
+    <img loading="lazy" alt="visitor badge" src="https://github-readme-activity-graph-mnex.vercel.app/graph?username=CarlosSchefferr&bg_color=0d1117&color=7e22ce&line=7e22ce&point=FFFFFF&area=false&hide_border=true&hide_title=true">
   </div>
   <!-- github readme activity graph end -->
 
