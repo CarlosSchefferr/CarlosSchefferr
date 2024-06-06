@@ -43,11 +43,12 @@
   </div><br>
   
   
-  #area de troféu 
- ![trophy](https://github-profile-trophy.vercel.app/?username=CarlosSchefferr&theme=tokyonight)
+   <!-- wave GIF start -->
+ ![trophy](https://github-profile-trophy.vercel.app/?username=CarlosSchefferr&theme=tokyonight&rank=-?)
 
 <div align="center">
     <img loading="lazy" width="100%" alt="colored gif" src="https://capsule-render.vercel.app/api?type=waving&color=7e22ce&height=160&section=footer">
   </div>
+  <!-- wave GIF end -->
   </div>
  
