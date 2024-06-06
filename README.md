@@ -23,7 +23,7 @@
   </div>
   
   <!-- github streak -->
-  <div style="flex: 1; margin: 10px;">
+  <div style="flex: 1; margin: 10px; border-radius: 50px;">
     <img loading="lazy" width=396 src="https://github-readme-streak-stats-mnex.vercel.app?user=CarlosSchefferr&hide_border=true&date_format=j%20M%5B%20Y%5D&background=0D1117&stroke=7e22ce&border=7e22ce&ring=7e22ce&fire=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=7e22ce&sideLabels=7e22ce&excludeDaysLabel=7e22ce&dates=FFFFFF" alt="Current Streak Stats" />
   </div>
 
