@@ -4,7 +4,8 @@
 
 
 
-<p style="color: 7e22ce;">Olá! Eu sou o Carlos Augusto</p>🖐️
+<span style="color: #7e22ce;">Olá! Eu sou o Carlos Augusto</span>🖐️
+
 
 
 
