@@ -16,7 +16,7 @@
   
   ## GitHub Analytics
 
-<div style="display: flex; justify-content: center; align-items: center; flex-wrap: wrap;">
+<div style="display: flex; border-radius: 10%; justify-content: center; align-items: center; flex-wrap: wrap;">
   <!-- github stats -->
   <div style="flex: 1; margin: 10px;">
     <img loading="lazy" width=396 src="https://github-readme-stats.vercel.app/api?username=CarlosSchefferr&title_color=7e22ce&icon_color=7e22ce&show_icons=true&theme=github_dark&hide_border=true&count_private=true" alt="GitHub Stats" />
