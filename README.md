@@ -1,4 +1,8 @@
 <div align="center"><br>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=7e22ce&height=120&section=header"/>
+
+
+
 
 ## Olá! Eu sou o Carlos Augusto 🖐️
 
