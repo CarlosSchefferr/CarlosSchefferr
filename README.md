@@ -44,7 +44,7 @@
   
   
   
-  ![Snake animation](https://github.com/CarlosSchefferr/CarlosSchefferr/blob/output/github-contribution-grid-snake.svg)
+  [![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma)](https://github.com/ryo-ma/github-profile-trophy)
   
   </div>
  
