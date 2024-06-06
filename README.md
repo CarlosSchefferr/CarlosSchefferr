@@ -44,7 +44,7 @@
   
   
   
- [![trophy](https://github-profile-trophy.vercel.app/?username=CarlosSchefferr)](https://github.com/ryo-ma/github-profile-trophy)
+ [![trophy](https://github-profile-trophy.vercel.app/?username=CarlosSchefferr&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
   
   </div>
  
