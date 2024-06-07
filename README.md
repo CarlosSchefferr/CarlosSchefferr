@@ -5,20 +5,20 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=7e22ce&size=35&center=true&vCenter=true&width=1000&lines=Olá,+meu+nome+é+Carlos+Augusto;Prazer+em+conhecer+você!+:%29)](https://git.io/typing-svg)
 
-## 
-<img align="center"  src="https://komarev.com/ghpvc/?username=CarlosScheffer&label=VISITANTES+DO+PERFIL&color=7e22ce&style=flat-square"><br>
+##
 
 
-<p>Sou nativo de Torres (RS), e vim para Criciúma após finalizar o ensino médio para cursar Engenharia de Software na Unisatc, onde estou tendo a oportunidade de aprimorar meus conhecimentos e habilidades na área que amo, que é a da tecnologia. Sou proativo, organizado e tenho facilidade para trabalho em equipe.</p>
+
+
 
 
 ## Fale comigo!
 
 
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=000000)](https://www.instagram.com/carloschefferr/)
-[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=000000)](mailto:c.augustomagnus@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=000000)](https://www.linkedin.com/in/carlosaugustodev/)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=000000)](https://github.com/CarlosSchefferr)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/carloschefferr/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:c.augustomagnus@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/carlosaugustodev/)
+[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/CarlosSchefferr)
 
 
 
@@ -26,28 +26,40 @@
 
 
 
-
-## Tech Stack
-
-<p>Estou familiarizado com linguagens como Javascript, Python, PHP, HTML e CSS, tenho noções básicas de Banco de Dados com SQL e Easy PHP e busco sempre aprender mais. Já tentei me aperfeiçoar com cursos presenciais e online, mas busco melhorar ainda mais minhas habilidades com a oportunidade de trabalhar em uma empresa na área de desenvolvimento de software!</p>
-
-## ⭐️ Tech Stack
+##  Tech Stack
 <!--  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=andreinaoliveira&show_icons=true&theme=synthwave&include_all_commits=true&count_private=true%22/"> --> 
 <div align="center">
+  <!-- Html5 --> <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white">
+  <!-- Css3 --> <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white">
   <!-- Python --> <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue">
   <!-- JavaScript --> <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
-  <!-- Kotlin --> <img src="https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white">
-  <!-- Json --> <img src="https://img.shields.io/badge/json-5E5C5C?style=for-the-badge&logo=json&logoColor=white">
-  <!-- Cypress --> <img src="https://img.shields.io/badge/Cypress-639a4f?style=for-the-badge&logo=Cypress&logoColor=white">
-  <!-- Selenium --> <img src="https://img.shields.io/badge/Selenium-008000?style=for-the-badge&logo=Selenium&logoColor=white">
-  <!-- Xray --> <img src="https://img.shields.io/badge/Xray%20Test-3abb4c?style=for-the-badge&logo=Jira&logoColor=white">
-  <!-- Zephyr --> <img src="https://img.shields.io/badge/Zephyr%20Test-87cefa?style=for-the-badge&logo=Jira&logoColor=white">
-  <!-- QAlity --> <img src="https://img.shields.io/badge/QAlity%20Test-0093d8?style=for-the-badge&logo=Jira&logoColor=white">
-  <!-- Postman --> <img src="https://img.shields.io/badge/Postman-EF5B25?style=for-the-badge&logo=Postman&logoColor=white">
-  <!-- SQL --> <img src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white">
-  <!-- AOSP --> <img src="https://img.shields.io/badge/AOSP-32de84?style=for-the-badge&logo=Android&logoColor=white">
-  <!-- Arduino --> <img src="https://img.shields.io/badge/Arduino-00979C?style=for-the-badge&logo=Arduino&logoColor=white">
-  <!-- Adobe XD --> <img src="https://img.shields.io/badge/Adobe%20XD-660066?style=for-the-badge&logo=AdobeXD&logoColor=white">
+  <!-- TypeScript --> <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white">
+  <!-- NodeJs --> <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white">
+  <!-- NextJs --> <img src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white">
+  <!-- ReactjS --> <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB">
+  <!-- MariaDb --> <img src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white">
+  <!-- MongoDB --> <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white">
+  <!-- MySql --> <img src="https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white">
+  <!-- Postgres --> <img src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white">
+  <!-- Java --> <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white">
+  <!-- Php --> <img src="https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white">
+  <!-- Git --> <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white">
+  <!-- Vercel --> <img src="https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white">
+  <!-- Figma --> <img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white">
+  <!-- Macos --> <img src="https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=macos&logoColor=F0F0F0">
+  <!-- Windows --> <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white">
+  
+  
+  
+  ## Sobre mim
+_
+
+  <p>Sou nativo de Torres (RS), e vim para Criciúma após finalizar o ensino médio para cursar Engenharia de Software na Unisatc, onde estou tendo a oportunidade de aprimorar meus conhecimentos e habilidades na área que amo, que é a da tecnologia. Sou proativo, organizado e tenho facilidade para trabalho em equipe.</p>
+_
+
+  <p>Estou familiarizado com linguagens como Javascript, Python, PHP, HTML, CSS e um pouco de  Java,  tenho noções básicas de Banco de Dados com SQL e Easy PHP e busco sempre aprender mais. Já tentei me aperfeiçoar com cursos presenciais e online, mas busco melhorar ainda mais minhas habilidades com a oportunidade de trabalhar em uma empresa na área de desenvolvimento de software!</p>
+  
+  
   <br>
 </div>
 
@@ -70,7 +82,7 @@
 
   <!-- github most used languages -->
   <div style="flex: 1; margin: 10px;">
-    <img loading="lazy" width=325 src="https://github-readme-stats-mnex.vercel.app/api/top-langs/?username=CarlosSchefferr&hide_title=true&count_private=true&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=7e22ce&text_color=FFFFFF&icon_color=09C3D7&bg_color=0D1117&langs_count=8&layout=compact&border_color=61dafb&hide_border=true" alt="Most Used Language Stats" />
+    <img loading="lazy" width=325 src="https://github-readme-stats-mnex.vercel.app/api/top-langs/?username=CarlosSchefferr&hide_title=true&count_private=true&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=7e22ce&text_color=FFFFFF&icon_color=09C3D7&bg_color=0D1117&langs_count=8&layout=compact&border_color=61dafb&hide_border=true" alt="Most Used Language Stats" /> 
   </div>
 </div>
 
@@ -79,39 +91,18 @@
   <div align="center">
     <img loading="lazy" alt="visitor badge" src="https://github-readme-activity-graph-mnex.vercel.app/graph?username=CarlosSchefferr&bg_color=0d1117&color=7e22ce&line=7e22ce&point=FFFFFF&area=false&hide_border=true&hide_title=true">
   </div>
+  
   <!-- github readme activity graph end -->
-
-  
-  </div><br>
-
-
-## Tecnologias que eu uso no meu dia a dia...
-
-<div align="center" valign="top"><br>
-
-  <img align="center" alt="htm" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" />
-  <img align="center" alt="css" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" />
-  <img align="center" alt="js"  height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" />
-  <img align="center" alt="ts"  height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg" />
-  <img align="center" alt="wd"  height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" />
-  <img align="center" alt="vs"  height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
-          
-         
-  
-</div><br>
- 
- ##
- <div><br>
-
-  
-  Sempre gostei de tecnologia, atualmente apaixonado na programação ❤️
+  <!-- Troféu -->
+   ![trophy](https://github-profile-trophy.vercel.app/?username=CarlosSchefferr&theme=algolia&no-frame=true&no-bg=true&margin-w=4&margin-w=15)
   </div><br>
   
-  
-   <!-- wave GIF start -->
-   
- ![trophy](https://github-profile-trophy.vercel.app/?username=CarlosSchefferr&theme=tokyonight&rank=-?)
 
+  ##
+
+ <img align="center"  src="https://komarev.com/ghpvc/?username=CarlosScheffer&label=VISITANTES+DO+PERFIL&color=7e22ce&style=flat-square"><br>
+
+<!-- wave GIF start -->
 <div align="center">
     <img loading="lazy" width="100%" alt="colored gif" src="https://capsule-render.vercel.app/api?type=waving&color=7e22ce&height=160&section=footer">
   </div>
