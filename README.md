@@ -110,7 +110,7 @@ _
 
   ##
 
- <img align="center"  src="https://komarev.com/ghpvc/?username=CarlosScheffer&label=VISITANTES+DO+PERFIL&color=7e22ce&style=flat-square"><br>
+ <img align="center"  src="https://komarev.com/ghpvc/?username=CarlosScheffer&label=VISITAS+AO+PERFIL&color=7e22ce&style=flat-square"><br>
 
 <!-- wave GIF start -->
 <div align="center">
