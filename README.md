@@ -2,14 +2,54 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=7e22ce&height=120&section=header"/>
 
 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=7e22ce&size=35&center=true&vCenter=true&width=1000&lines=Olá,+meu+nome+é+Carlos+Augusto;Prazer+em+conhecer+você!+:%29)](https://git.io/typing-svg)
+
+## 
 
 
-## Olá! Eu sou o Carlos Augusto 🖐️
+
+<p>Sou nativo de Torres (RS), e vim para Criciúma após finalizar o ensino médio para cursar Engenharia de Software na Unisatc, onde estou tendo a oportunidade de aprimorar meus conhecimentos e habilidades na área que amo, que é a da tecnologia. Sou proativo, organizado e tenho facilidade para trabalho em equipe.</p>
+
+
+## Fale comigo!
+
+
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=000000)](https://www.instagram.com/carloschefferr/)
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=000000)](mailto:c.augustomagnus@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=000000)](https://www.linkedin.com/in/carlosaugustodev/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=000000)](https://github.com/CarlosSchefferr)
 
 
 
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/carloschefferr)
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/carlosaugustodev)
+
+
+
+
+
+## Tech Stack
+
+<p>Estou familiarizado com linguagens como Javascript, Python, PHP, HTML e CSS, tenho noções básicas de Banco de Dados com SQL e Easy PHP e busco sempre aprender mais. Já tentei me aperfeiçoar com cursos presenciais e online, mas busco melhorar ainda mais minhas habilidades com a oportunidade de trabalhar em uma empresa na área de desenvolvimento de software!</p>
+
+## ⭐️ Tech Stack
+<!--  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=andreinaoliveira&show_icons=true&theme=synthwave&include_all_commits=true&count_private=true%22/"> --> 
+<div align="center">
+  <!-- Python --> <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue">
+  <!-- JavaScript --> <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
+  <!-- Kotlin --> <img src="https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white">
+  <!-- Json --> <img src="https://img.shields.io/badge/json-5E5C5C?style=for-the-badge&logo=json&logoColor=white">
+  <!-- Cypress --> <img src="https://img.shields.io/badge/Cypress-639a4f?style=for-the-badge&logo=Cypress&logoColor=white">
+  <!-- Selenium --> <img src="https://img.shields.io/badge/Selenium-008000?style=for-the-badge&logo=Selenium&logoColor=white">
+  <!-- Xray --> <img src="https://img.shields.io/badge/Xray%20Test-3abb4c?style=for-the-badge&logo=Jira&logoColor=white">
+  <!-- Zephyr --> <img src="https://img.shields.io/badge/Zephyr%20Test-87cefa?style=for-the-badge&logo=Jira&logoColor=white">
+  <!-- QAlity --> <img src="https://img.shields.io/badge/QAlity%20Test-0093d8?style=for-the-badge&logo=Jira&logoColor=white">
+  <!-- Postman --> <img src="https://img.shields.io/badge/Postman-EF5B25?style=for-the-badge&logo=Postman&logoColor=white">
+  <!-- SQL --> <img src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white">
+  <!-- AOSP --> <img src="https://img.shields.io/badge/AOSP-32de84?style=for-the-badge&logo=Android&logoColor=white">
+  <!-- Arduino --> <img src="https://img.shields.io/badge/Arduino-00979C?style=for-the-badge&logo=Arduino&logoColor=white">
+  <!-- Adobe XD --> <img src="https://img.shields.io/badge/Adobe%20XD-660066?style=for-the-badge&logo=AdobeXD&logoColor=white">
+  <br>
+</div>
+
 
 <div align"center"><br>
   
