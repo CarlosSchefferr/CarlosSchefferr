@@ -14,11 +14,16 @@ _
   <p>Sou nativo de Torres (RS), e vim para Criciúma após finalizar o ensino médio para cursar Engenharia de Software na Unisatc, onde estou tendo a oportunidade de aprimorar meus conhecimentos e habilidades na área que amo, que é a da tecnologia. Sou proativo, organizado e tenho facilidade para trabalho em equipe.</p>
 _
 
-  <p>Estou familiarizado com linguagens como Javascript, Python, PHP, HTML, CSS e um pouco de  Java,  tenho noções básicas de Banco de Dados com SQL e Easy PHP e busco sempre aprender mais. Já tentei me aperfeiçoar com cursos presenciais e online, mas busco melhorar ainda mais minhas habilidades com a oportunidade de trabalhar em uma empresa na área de desenvolvimento de software!</p>
-  
-  
-   ##
-   [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=7e22ce&size=20&center=true&vCenter=true&width=500&lines=Tech+Stack+💻;)](https://git.io/typing-svg)
+  <p>Estou familiarizado com linguagens como Javascript, Python, PHP, HTML, CSS e um pouco de  Java,  tenho noções básicas de Banco de Dados com SQL e Easy PHP e busco sempre aprender mais. Já tentei me aperfeiçoar com cursos presenciais e online, mas busco melhorar ainda mais minhas habilidades com a oportunidade de trabalhar em uma empresa na área de desenvolvimento de software!
+
+    
+ Meu Portfólio Web: [Visitar](https://carlossdev.site/) 
+
+  <p>‎ </p>
+ 
+   ## Tech Stack 💻
+   <p>‎ </p>
+
 <!--  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=andreinaoliveira&show_icons=true&theme=synthwave&include_all_commits=true&count_private=true%22/"> --> 
 <div align="center">
   <!-- Html5 --> <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white">
@@ -41,11 +46,17 @@ _
   <!-- Macos --> <img src="https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=macos&logoColor=F0F0F0">
   <!-- Windows --> <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white">
 
+
 <div align"center"><br>
   
   
 
-  <h2>GitHub Analytics</h2>
+
+## GitHub Analytics
+
+<p>‎ </p>
+<p>‎ </p>
+
 
 <div style="display: flex; border-radius: 50px; justify-content: center; align-items: center; flex-wrap: wrap;">
   <!-- github stats -->
@@ -74,20 +85,19 @@ _
   <!-- Troféu -->
    ![trophy](https://github-profile-trophy.vercel.app/?username=CarlosSchefferr&theme=algolia&no-frame=true&no-bg=true&margin-w=4&margin-w=15)
   </div><br>
-
+<p>‎ </p>
 
   
   
 
-## Entre em Contato!
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=7e22ce&size=20&center=true&vCenter=true&width=500&lines=Entre+em+Contato!;)](https://git.io/typing-svg)
 
+  [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/carloschefferr/)
+  [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/+5551990041021)
+  [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:c.augustomagnus@gmail.com)
+  [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/carlosaugustodev/)
+  [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/CarlosSchefferr)
 
-
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/carloschefferr/)
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/+5551990041021)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:c.augustomagnus@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/carlosaugustodev/)
-[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/CarlosSchefferr)
 
 
 
