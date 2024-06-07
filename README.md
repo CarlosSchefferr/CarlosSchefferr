@@ -12,6 +12,7 @@
 _
 
   <p>Sou nativo de Torres (RS), e vim para Criciúma após finalizar o ensino médio para cursar Engenharia de Software na Unisatc, onde estou tendo a oportunidade de aprimorar meus conhecimentos e habilidades na área que amo, que é a da tecnologia. Sou proativo, organizado e tenho facilidade para trabalho em equipe.</p>
+  
 _
 
   <p>Estou familiarizado com linguagens como Javascript, Python, PHP, HTML, CSS e um pouco de  Java,  tenho noções básicas de Banco de Dados com SQL e Easy PHP e busco sempre aprender mais. Já tentei me aperfeiçoar com cursos presenciais e online, mas busco melhorar ainda mais minhas habilidades com a oportunidade de trabalhar em uma empresa na área de desenvolvimento de software!
