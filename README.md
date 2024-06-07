@@ -2,10 +2,11 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=7e22ce&height=120&section=header"/>
 
 
+
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=7e22ce&size=35&center=true&vCenter=true&width=1000&lines=Olá,+meu+nome+é+Carlos+Augusto;Prazer+em+conhecer+você!+:%29)](https://git.io/typing-svg)
 
 ## 
-
+<img align="center"  src="https://komarev.com/ghpvc/?username=CarlosScheffer&label=VISITANTES+DO+PERFIL&color=7e22ce&style=flat-square"><br>
 
 
 <p>Sou nativo de Torres (RS), e vim para Criciúma após finalizar o ensino médio para cursar Engenharia de Software na Unisatc, onde estou tendo a oportunidade de aprimorar meus conhecimentos e habilidades na área que amo, que é a da tecnologia. Sou proativo, organizado e tenho facilidade para trabalho em equipe.</p>
