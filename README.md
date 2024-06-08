@@ -95,7 +95,7 @@ _
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=7e22ce&size=20&center=true&vCenter=true&width=500&lines=Entre+em+Contato!;)](https://git.io/typing-svg)
 
-  [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/lumertzleandra/)
+  [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/carloschefferr/)
   [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/+5551990041021)
   [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:c.augustomagnus@gmail.com)
   [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/carlosaugustodev/)
