@@ -46,7 +46,7 @@ _
   <!-- Git --> <img src="https://img.shields.io/badge/git-7e22ce.svg?style=for-the-badge&logo=git&logoColor=white">
   <!-- Vercel --> <img src="https://img.shields.io/badge/vercel-7e22ce.svg?style=for-the-badge&logo=vercel&logoColor=white">
   <!-- Figma --> <img src="https://img.shields.io/badge/figma-7e22ce.svg?style=for-the-badge&logo=figma&logoColor=white">
-  <!-- Macos --> <img src="https://img.shields.io/badge/mac%20os-7e22ce?style=for-the-badge&logo=macos&logoColor=F0F0F0">
+  <!-- Macos --> <img src="https://img.shields.io/badge/mac%20os-7e22ce?style=for-the-badge&logo=macos&logoColor=white">
   <!-- Windows --> <img src="https://img.shields.io/badge/Windows-7e22ce?style=for-the-badge&logo=windows&logoColor=white">
 
 
