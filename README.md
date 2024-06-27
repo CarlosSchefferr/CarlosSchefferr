@@ -86,7 +86,7 @@ _
   
   <!-- github readme activity graph end -->
   <!-- Troféu -->
-   ![trophy](https://github-profile-trophy.vercel.app/?username=CarlosSchefferr&theme=algolia&no-frame=true&no-bg=true&margin-w=4&margin-w=15)
+   ![trophy](https://github-profile-trophy.vercel.app/?username=CarlosSchefferr&theme=tokyonight&no-frame=true&no-bg=true)
   </div><br>
 <p>‎ </p>
 
