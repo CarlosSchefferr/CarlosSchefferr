@@ -15,8 +15,6 @@ _
   
 _
 
-  <p>Estou familiarizado com linguagens como Javascript, Python, PHP, HTML, CSS e um pouco de  Java,  tenho noções básicas de Banco de Dados com SQL e Easy PHP e busco sempre aprender mais. Já tentei me aperfeiçoar com cursos presenciais e online, mas busco melhorar ainda mais minhas habilidades com a oportunidade de trabalhar em uma empresa na área de desenvolvimento de software!
-  <p>‎ </p>
 
     
  Meu Portfólio Web: [Visitar](https://carlossdev.site/) 
