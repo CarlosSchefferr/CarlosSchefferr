@@ -56,11 +56,6 @@
 
 <br><br>
 
-<div align="center">
-  <img loading="lazy" alt="visitor badge" src="https://github-readme-activity-graph-mnex.vercel.app/graph?username=CarlosSchefferr&bg_color=0d1117&color=7e22ce&line=7e22ce&point=FFFFFF&area=false&hide_border=true&hide_title=true">
-
-  ![trophy](https://github-profile-trophy.vercel.app/?username=CarlosSchefferr&theme=discord&no-frame=true&no-bg=true&title=-Reviews)
-</div>
 
 <br>
 
@@ -68,7 +63,7 @@
 
 <br>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=7e22ce&size=20&center=true&vCenter=true&width=500&lines=Entre+em+Contato!;)](https://git.io/typing-svg)
+
 
 <div align="center">
   <a href="https://www.instagram.com/carloschefferr/" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"></a>
