@@ -22,19 +22,12 @@
   <!-- NodeJs --> <img src="https://img.shields.io/badge/node.js-7e22ce?style=for-the-badge&logo=node.js&logoColor=white">
   <!-- NextJs --> <img src="https://img.shields.io/badge/Next-7e22ce?style=for-the-badge&logo=next.js&logoColor=white">
   <!-- ReactjS --> <img src="https://img.shields.io/badge/react-7e22ce.svg?style=for-the-badge&logo=react&logoColor=white">
-  <!-- MariaDb --> <img src="https://img.shields.io/badge/MariaDB-7e22ce?style=for-the-badge&logo=mariadb&logoColor=white">
-  <!-- MongoDB --> <img src="https://img.shields.io/badge/MongoDB-7e22ce.svg?style=for-the-badge&logo=mongodb&logoColor=white">
   <!-- MySql --> <img src="https://img.shields.io/badge/mysql-7e22ce.svg?style=for-the-badge&logo=mysql&logoColor=white">
   <!-- Postgres --> <img src="https://img.shields.io/badge/postgres-7e22ce.svg?style=for-the-badge&logo=postgresql&logoColor=white">
   <!-- Java --> <img src="https://img.shields.io/badge/java-7e22ce.svg?style=for-the-badge&logo=openjdk&logoColor=white">
   <!-- Php --> <img src="https://img.shields.io/badge/php-7e22ce.svg?style=for-the-badge&logo=php&logoColor=white">
   <!-- Laravel --> <img src="https://img.shields.io/badge/laravel-7e22ce.svg?style=for-the-badge&logo=laravel&logoColor=white">
-  <!-- JQuery --> <img src="https://img.shields.io/badge/jquery-7e22ce.svg?style=for-the-badge&logo=jquery&logoColor=white">
   <!-- Git --> <img src="https://img.shields.io/badge/git-7e22ce.svg?style=for-the-badge&logo=git&logoColor=white">
-  <!-- Vercel --> <img src="https://img.shields.io/badge/vercel-7e22ce.svg?style=for-the-badge&logo=vercel&logoColor=white">
-  <!-- Figma --> <img src="https://img.shields.io/badge/figma-7e22ce.svg?style=for-the-badge&logo=figma&logoColor=white">
-  <!-- Macos --> <img src="https://img.shields.io/badge/mac%20os-7e22ce?style=for-the-badge&logo=macos&logoColor=white">
-  <!-- Windows --> <img src="https://img.shields.io/badge/Windows-7e22ce?style=for-the-badge&logo=windows&logoColor=white">
 </div>
 
 <br><br>
