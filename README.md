@@ -4,7 +4,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=7e22ce&size=35&center=true&vCenter=true&width=1000&lines=Olá,+meu+nome+é+Carlos+Augusto;Prazer+em+conhecer+você!+:%29)](https://git.io/typing-svg)
 
 <br><br>
-<a href="carlosdev-next.vercel.app/" target="_blank">
+<a href="//carlosdev-next.vercel.app/" target="_blank">
    <img src="https://img.shields.io/badge/Meu%20Portfólio-Visitar%20Site-7e22ce?style=for-the-badge&logo=google-chrome&logoColor=white">
 </a>
 
