@@ -38,11 +38,7 @@
   <!-- github stats -->
   <img loading="lazy" width="400" src="https://github-readme-stats.vercel.app/api?username=CarlosSchefferr&title_color=7e22ce&icon_color=7e22ce&show_icons=true&theme=github_dark&hide_border=true&count_private=true" alt="GitHub Stats" />
   
-  <!-- github streak -->
-  <img loading="lazy" width="400" src="https://github-readme-streak-stats-mnex.vercel.app?user=CarlosSchefferr&hide_border=true&date_format=j%20M%5B%20Y%5D&background=0D1117&stroke=7e22ce&border=7e22ce&ring=7e22ce&fire=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=7e22ce&sideLabels=7e22ce&excludeDaysLabel=7e22ce&dates=FFFFFF" alt="Current Streak Stats" />
-
-  <!-- github most used languages -->
-  <img loading="lazy" width="325" src="https://github-readme-stats-mnex.vercel.app/api/top-langs/?username=CarlosSchefferr&hide_title=true&count_private=true&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=7e22ce&text_color=FFFFFF&icon_color=09C3D7&bg_color=0D1117&langs_count=8&layout=compact&border_color=61dafb&hide_border=true" alt="Most Used Language Stats" /> 
+ 
 
 </div>
 
