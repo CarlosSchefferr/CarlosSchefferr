@@ -1,79 +1,48 @@
-name: Generate Profile Analytics
+name: Atualizar Analytics do Perfil
 
 on:
   workflow_dispatch:
   schedule:
-    - cron: "17 3 * * *"
+    - cron: "25 3 * * *"
 
 permissions:
   contents: write
 
-concurrency:
-  group: profile-analytics
-  cancel-in-progress: false
-
 jobs:
-  generate-analytics:
+  analytics:
     runs-on: ubuntu-latest
 
     steps:
-      - name: Checkout repository
+      - name: Checkout
         uses: actions/checkout@v4
 
-      - name: Generate profile analytics SVGs
+      - name: Gerar card único (PT-BR / Roxo)
         uses: lowlighter/metrics@latest
         with:
           token: ${{ secrets.GITHUB_TOKEN }}
           user: CarlosSchefferr
-          filename: assets/metrics.base.svg
-          base: header, activity, community, repositories, metadata
-          config_timezone: America/Sao_Paulo
+          filename: assets/metrics-ptbr-purple.svg
+
+          # Visual
+          template: classic
+          color_mode: dark
+          palette: purple
           config_display: large
+          config_timezone: America/Sao_Paulo
           config_padding: 12, 12
-          config_order: base.header, base.activity, base.community, base.repositories, base.metadata
 
-      - name: Generate languages SVG
-        uses: lowlighter/metrics@latest
-        with:
-          token: ${{ secrets.GITHUB_TOKEN }}
-          user: CarlosSchefferr
-          filename: assets/metrics.languages.svg
-          base: ""
+          # Conteúdo principal
+          base: header, activity, community, repositories, metadata
+
+          # Linguagens no mesmo card
           plugin_languages: yes
-          plugin_languages_ignored: html, css
-          plugin_languages_limit: 8
-          plugin_languages_details: percentage
+          plugin_languages_limit: 6
           plugin_languages_sections: most-used
-          plugin_languages_colors: github
+          plugin_languages_details: percentage
           plugin_languages_threshold: 0%
-          config_timezone: America/Sao_Paulo
 
-      - name: Generate habits / activity SVG
-        uses: lowlighter/metrics@latest
-        with:
-          token: ${{ secrets.GITHUB_TOKEN }}
-          user: CarlosSchefferr
-          filename: assets/metrics.activity.svg
-          base: ""
-          plugin_habits: yes
-          plugin_habits_from: 200
-          plugin_habits_facts: yes
-          plugin_habits_charts: yes
-          plugin_habits_trim: yes
-          config_timezone: America/Sao_Paulo
-
-      - name: Generate streak SVG
-        uses: lowlighter/metrics@latest
-        with:
-          token: ${{ secrets.GITHUB_TOKEN }}
-          user: CarlosSchefferr
-          filename: assets/metrics.streak.svg
-          base: ""
-          plugin_isocalendar: yes
-          config_timezone: America/Sao_Paulo
-
-      - name: Commit and push generated assets
+      - name: Commit automático
         uses: stefanzweifel/git-auto-commit-action@v5
         with:
-          commit_message: "chore: update profile analytics assets"
-          file_pattern: assets/*.svg
+          commit_message: "chore: atualizar analytics do perfil"
+          file_pattern: assets/metrics-ptbr-purple.svg
