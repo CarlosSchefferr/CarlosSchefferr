@@ -62,18 +62,6 @@
 
 <br><br>
 
-## GitHub Analytics 📊
-
-<div align="center">
-  <img
-    loading="lazy"
-    width="820"
-    src="https://raw.githubusercontent.com/CarlosSchefferr/CarlosSchefferr/main/assets/metrics-ptbr-purple.svg"
-    alt="Resumo de atividade GitHub de Carlos Schefferr"
-  />
-</div>
-
-<br><br>
 
 <div align="center">
 
