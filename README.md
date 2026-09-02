@@ -64,67 +64,14 @@
 
 ## GitHub Analytics 📊
 
-<!-- GitHub Overview -->
-
-<picture>
-  <source
-    media="(prefers-color-scheme: dark)"
-    srcset="./assets/overview.dark.svg"
-  />
+<div align="center">
   <img
-    src="./assets/overview.light.svg"
-    alt="GitHub Overview"
-    width="100%"
+    loading="lazy"
+    width="820"
+    src="https://raw.githubusercontent.com/CarlosSchefferr/CarlosSchefferr/main/assets/metrics-ptbr-purple.svg"
+    alt="Resumo de atividade GitHub de Carlos Schefferr"
   />
-</picture>
-
-<br><br>
-
-<!-- GitHub Contributions -->
-
-<picture>
-  <source
-    media="(prefers-color-scheme: dark)"
-    srcset="./assets/contributions.dark.svg"
-  />
-  <img
-    src="./assets/contributions.light.svg"
-    alt="GitHub Contributions"
-    width="100%"
-  />
-</picture>
-
-<br><br>
-
-<!-- GitHub Languages -->
-
-<picture>
-  <source
-    media="(prefers-color-scheme: dark)"
-    srcset="./assets/languages.dark.svg"
-  />
-  <img
-    src="./assets/languages.light.svg"
-    alt="GitHub Languages"
-    width="100%"
-  />
-</picture>
-
-<br><br>
-
-<!-- GitHub Activity -->
-
-<picture>
-  <source
-    media="(prefers-color-scheme: dark)"
-    srcset="./assets/rhythm.dark.svg"
-  />
-  <img
-    src="./assets/rhythm.light.svg"
-    alt="GitHub Activity Rhythm"
-    width="100%"
-  />
-</picture>
+</div>
 
 <br><br>
 
