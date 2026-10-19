@@ -6,10 +6,6 @@
 
 <br><br>
 
-<a href="https://carlosdev-next.vercel.app/" target="_blank">
-   <img src="https://img.shields.io/badge/Meu%20Portfólio-Visitar%20Site-7e22ce?style=for-the-badge&logo=google-chrome&logoColor=white">
-</a>
-
 <br><br>
 
 ## Tech Stack 💻
